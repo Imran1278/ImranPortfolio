@@ -343,7 +343,7 @@
                         </div>
                     </div>
                     </a>
-                    <a href="#" target="_blank" class="text-decoration-none text-white">
+                    <a href="https://github.com/Imran1278/Simple-Web-Application" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
