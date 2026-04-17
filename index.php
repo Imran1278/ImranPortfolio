@@ -69,7 +69,6 @@
             transition: 0.4s;
         }
         .project-row:hover { background: #080808; padding-left: 20px; }
-
         /* Skill Pills */
         .skill-item {
             border: 1px solid var(--accent);
@@ -101,6 +100,7 @@
         @media (max-width: 768px) {
             .hero { text-align: center; }
         }
+
     </style>
 </head>
 <body>
@@ -259,7 +259,7 @@
             <div class="row">
                 <div class="col-lg-3"><span class="side-head">03 — Projects</span></div>
                 <div class="col-lg-9">
-                    <a href="#" target="_blank" class="text-decoration-none text-white">
+                    <a href="https://github.com/Imran1278/pulseassociatessoftwarehouse" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -268,12 +268,12 @@
                             </div>
                             <div class="col-md-4 text-md-end">
                                 <span class="small text-secondary d-block">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
-                                <span class="small text-white-50">VIEW PROJECT ↗</span>
+                                <span class="small text-white-50">VIEW PROJECT</span>
                             </div>
                         </div>
                     </div>
                     </a>
-                    <a href="#" target="_blank" class="text-decoration-none text-white">
+                    <a href="https://github.com/Imran1278/glucocare" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -282,7 +282,7 @@
                             </div>
                             <div class="col-md-4 text-md-end">
                                 <span class="small text-secondary d-block">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
-                                <span class="small text-white-50">VIEW PROJECT ↗</span>
+                                <span class="small text-white-50">VIEW PROJECT</span>
                             </div>
                         </div>
                     </div>
@@ -296,7 +296,7 @@
                             </div>
                             <div class="col-md-4 text-md-end">
                                 <span class="small text-secondary d-block">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
-                                <span class="small text-white-50">VIEW PROJECT ↗</span>
+                                <span class="small text-white-50">VIEW PROJECT</span>
                             </div>
                         </div>
                     </div>
@@ -310,11 +310,12 @@
                             </div>
                             <div class="col-md-4 text-md-end">
                                 <span class="small text-secondary d-block">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
-                                <span class="small text-white-50">VIEW PROJECT ↗</span>
+                                <span class="small text-white-50">VIEW PROJECT</span>
                             </div>
                         </div>
                     </div>
                     </a>
+                    <a href="https://github.com/Imran1278/DNTopology" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -322,10 +323,13 @@
                                 <p class="text-secondary small">Designed A Simulated University Departmental Network Layout With Logical And Physical Connections</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">Cisco Packet Tracer / Networking Tools / GNS3</span>
+                                <span class="small text-secondary d-block">Cisco Packet Tracer / Networking Tools / GNS3</span>
+                                <span class="small text-white-50">VIEW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="https://github.com/Imran1278/scholarship-management-system" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -333,10 +337,13 @@
                                 <p class="text-secondary small">Created A Crud Based System In C++ For Managing Student Records And Integrated Search, Update, Reporting Features</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">C, C++, Turbo, Dev C++</span>
+                                <span class="small text-secondary d-block">C, C++, Turbo, Dev C++</span>
+                                <span class="small text-white-50">VEIW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="#" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -344,10 +351,13 @@
                                 <p class="text-secondary small">Created A BAsic Web Application Accessible Through A Browser, Simulating A Real World Online Services And Focused On Backend Logic And Responsive Frontend Design</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">HTML, CSS3, JavaScript, PHP</span>
+                                <span class="small text-secondary d-block">HTML, CSS3, JavaScript, PHP</span>
+                                <span class="small text-white-50">VEIW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="https://github.com/Imran1278/realtime-chat-application" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -355,10 +365,13 @@
                                 <p class="text-secondary small">Built A Real Time Chat Application Using PHP, MySQL, JavaScript And Designed A Responsive UI And Implemented Live Message Updates</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">HTML, CSS, JavaScript, PHP, MySQL</span>
+                                <span class="small text-secondary d-block">HTML, CSS, JavaScript, PHP, MySQL</span>
+                                <span class="small text-white-50">VEIW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="https://github.com/Imran1278/Smart-Shopping-System" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -366,10 +379,27 @@
                                 <p class="text-secondary small">Developed An AI Based E Commerce Platform To Recommend Products And Applied Ontology And Semantics Web Concepts For Intelligent Product Relations</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
+                                <span class="small text-secondary d-block">HTML5, CSS3, JavaScript, PHP, MySQL, Bootstrap</span>
+                                <span class="small text-white-50">VEIW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
+                    <a href="https://github.com/Imran1278/medicine-inventory-system-cpp" target="_blank" class="text-decoration-none text-white">
+                        <div class="project-row" data-aos="fade-up">
+                            <div class="row align-items-center">
+                                <div class="col-md-8">
+                                    <h3 class="fw-bold">Medicine Inventory System In C++</h3>
+                                    <p class="text-secondary small">Created A Medicine Based System In C++ For Managing All Medicine Records And Integrated Search, Update, Reporting Features</p>
+                                </div>
+                                <div class="col-md-4 text-md-end">
+                                    <span class="small text-secondary d-block">C, C++, Turbo, Dev C++</span>
+                                    <span class="small text-white-50">VEIW PROJECT</span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="https://github.com/Imran1278/mediaplayerpro" target="_blank" class="text-decoration-none text-white">
                     <div class="project-row" data-aos="fade-up">
                         <div class="row align-items-center">
                             <div class="col-md-8">
@@ -377,10 +407,12 @@
                                 <p class="text-secondary small">Designed A Simple Desktop Media Player For Audio And Video Playback, Pause, Volume Adjustment</p>
                             </div>
                             <div class="col-md-4 text-md-end">
-                                <span class="small text-secondary">C++, HTML, CSS, JavaScript</span>
+                                <span class="small text-secondary d-block">C++, HTML, CSS, JavaScript</span>
+                                <span class="small text-white-50">VEIW PROJECT</span>
                             </div>
                         </div>
                     </div>
+                    </a>
                 </div>
             </div>
         </div>
